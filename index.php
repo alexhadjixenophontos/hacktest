@@ -1,3 +1,4 @@
 <?php
 
-echo 'Hello World!';`
+$username = "alex";
+echo "Hello $username";
